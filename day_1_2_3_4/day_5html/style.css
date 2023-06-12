@@ -1,0 +1,30 @@
+body {
+    color: rgb(227, 133, 40);
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#list{
+
+    color: blue;
+}
+
+.aa{
+    background-color: rgb(133, 185, 203);
+
+    font-size: 25px;
+}
+/*attribute selector */
+/* <a href="Uplaifs.com"></a>{
+    color : red
+    text-decoration: none;
+} */
+input[type="text"]  {
+    background-color: azure;
+}
+
+#btn:hover{
+    background-color: rgb(92, 17, 145);
+    color: coral;
+}
